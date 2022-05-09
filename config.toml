@@ -4,7 +4,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "codex"
 languageCode = "en-us"
-baseURL = "https://slash-dev-tutorials.github.io.org/blog"
+baseURL = "https://slash-dev-tutorials.github.io"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
